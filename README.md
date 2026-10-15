@@ -4,7 +4,7 @@ I got macOS Catalina working on my MSI GF63 11SC and everything works except Air
 
 - [ ] Intel Core i5 11400H
 - [ ] Intel UHD 730 Graphics (Unsupported)
-- [ ] NVIDIA GeForce GTX 1650 (Disabled)
+- [ ] NVIDIA GeForce GTX 1650
 - [ ] 256GB SSD - For Windows  
 - [ ] 256GB SSD - For macOS
      (These aren't two different drives I partitioned the 50/50 from my 500GB NVMe SSD).
