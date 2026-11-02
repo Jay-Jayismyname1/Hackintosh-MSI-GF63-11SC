@@ -3,7 +3,7 @@ Hackintosh MSI GF63 11SC
 I got macOS Catalina working on my MSI GF63 11SC and everything works except AirDrop, 3D Acceleration and Internal Mic. I’m still working on these features, I’m still new to hackintoshing and the more I do this the more I will learn this stuff, keep in mind I’m dual booting Windows 11 and macOS Catalina. I’m proud of it but the battery isn't the best it dies quite fast but this is expected as it's a gaming laptop, here are my specs:
 
 - [ ] Intel Core i5 11400H
-- [ ] Intel UHD 730 Graphics (Unsupported)
+- [ ] Intel UHD 730 Graphics
 - [ ] NVIDIA GeForce GTX 1650
 - [ ] 256GB SSD - For Windows  
 - [ ] 256GB SSD - For macOS
