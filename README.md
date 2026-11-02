@@ -12,7 +12,7 @@ I got macOS Sequoia working on my MSI GF63 11SC and everything works except AirD
 - [ ] Realtek ALC 897
 - [ ] 8GB DDR4 RAM
 
-What is working?
+What is working:
   Metal, Acceleration
   Sound
   Wifi
@@ -21,7 +21,7 @@ What is working?
   Webcam
   Keyboard/Trackpad (With gestures)
 
-What's not working
+What's not working:
   Internal mic
   Airdrop
   Sleep
