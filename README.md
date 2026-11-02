@@ -14,7 +14,7 @@ I got macOS Sequoia working on my MSI GF63 11SC and everything works except AirD
 
 What is working:
 
-  - [ ] Metal, Acceleration
+  - [ ] Metal, Acceleration, Night Shift, Brightness control
   - [ ] Sound
   - [ ] Wifi
   - [ ] Bluetooth
@@ -28,6 +28,7 @@ What's not working:
   - [ ] Airdrop
   - [ ] Sleep
   - [ ] HDMI (External monitor)
+  - [ ] Brightness keys
 
 ** Side Note 
    Once installed you need to head to System Prefrences --> Sound --> Output and change it to Line Out (The last One).
