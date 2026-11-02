@@ -13,19 +13,21 @@ I got macOS Sequoia working on my MSI GF63 11SC and everything works except AirD
 - [ ] 8GB DDR4 RAM
 
 What is working:
-  Metal, Acceleration
-  Sound
-  Wifi
-  Bluetooth
-  CPU Power management
-  Webcam
-  Keyboard/Trackpad (With gestures)
+
+  - [ ] Metal, Acceleration
+  - [ ] Sound
+  - [ ] Wifi
+  - [ ] Bluetooth
+  - [ ] CPU Power management
+  - [ ] Webcam
+  - [ ] Keyboard/Trackpad (With gestures)
 
 What's not working:
-  Internal mic
-  Airdrop
-  Sleep
-  HDMI (External monitor)
+
+  - [ ] Internal mic
+  - [ ] Airdrop
+  - [ ] Sleep
+  - [ ] HDMI (External monitor)
 
 ** Side Note 
    Once installed you need to head to System Prefrences --> Sound --> Output and change it to Line Out (The last One).
